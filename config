@@ -1,0 +1,6 @@
+#Histeresis, banda de control en cms superior o inferior para considerar que una variable se salio del rango
+histeresis = 3
+#Numero de muestras seguidas identicas para considerar que hubo un cambio
+n_muestras = 10
+#Tiempo de encendido del relay, una vez detectado el cambio
+ton_relay = 2
